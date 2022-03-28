@@ -1,0 +1,4 @@
+# PAYME.yaml is an open source file format for financially supporting open source contributors
+# https://payme-yaml.org
+paypal: # email address here
+bitcoin: # bitcoin address here
